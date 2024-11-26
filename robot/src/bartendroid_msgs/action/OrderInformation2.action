@@ -1,0 +1,6 @@
+int64 icecream_position
+int64 topping_position
+---
+bool is_complete
+---
+int64 phase

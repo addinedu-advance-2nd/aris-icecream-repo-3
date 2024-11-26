@@ -1,0 +1,6 @@
+노드 작성요령
+1. 노드이름
+2. 메세지 이름 topic/service/action
+3. 메세지 타입 geometry_msgs/Twist
+
+4. 메세지 데이터 
