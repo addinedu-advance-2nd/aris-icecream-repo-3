@@ -26,7 +26,8 @@
 기존의 로봇팔 아이스크림 서빙 서비스의 단점은 제한된 유연성과 고객경험 제한, 감정적 거리감이 있습니다. 로봇에 인간적 특성을 부여하면 고객과의 정서적 유대감이 강화되고 고객 만족도가 향상된다는 연구 결과가 존재합니다. 이 연구 결과에 기반하여 기존의 서비스에 Bartendroid 컨셉을 녹여냈습니다.
 
 ## 프로젝트 내 기능
-[![Video Label](http://img.youtube.com/vi/7RIg64MWCco/0.jpg)](https://youtu.be/7RIg64MWCco)
+### Youtube
+[![Video Label](http://img.youtube.com/vi/kz0VHNjd7Ag/0.jpg)](https://youtu.be/kz0VHNjd7Ag)
 
 ### 기본 동작 기능
 -  키오스크 주문
